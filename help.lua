@@ -14,7 +14,7 @@ bot invite: https://youngforever.tk
 server setup:
              info: yu might need these to setup your server...
     1. (^)sets up moderation system           : ,setme
-    2. (^)configures a muted or jailed role   : ,configjr <@role> or /configmr <@<role>
+    2. (^)configures a muted or jailed role   : ,configjr <@role> or ,configmr <@<role>
     3. (^)configures jailed channel           : ,configjc <channel> 
 
 moderation:
