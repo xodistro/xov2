@@ -1,7 +1,8 @@
 this is gradually being updat4ed. not all of the commands are here, only the importantish ones
 command list for xo bot
 Prefix: , 
-* = not required
+() = not required
+<> = required
 ** = bot owner Only
 ^ = server admin Only
 -------
