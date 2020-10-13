@@ -9,7 +9,7 @@ Prefix: ,
 join xo discord if yu find bugs, or yu wanna vibe, or tell me my bot is trash, or tell me yu love my bot, its up to yu.
 if yu find urgent bugs that could destroy servers, dm me at xo#0002  
 discord invite: https://youngforever.tk/discord
-bot invite: youngforever.tk
+bot invite: https://youngforever.tk
 -------
 server setup:
              info: yu might need these to setup your server...
