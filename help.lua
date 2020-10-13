@@ -1,4 +1,4 @@
-yeah so, this is comin soon when i feel like writing out all the commands kill me later lol
+this is gradually being updat4ed. not all of the commands are here, only the importantish ones
 command list for xo bot
 Prefix: , or /
 * = not required
@@ -30,8 +30,8 @@ moderation:
     10. un-reaction mutes member              : /runmute <user>
     11. locks down the channel                : /lockdown
     12. unlocks the channel                   : /unlock
-    13. (*) locks the channel                 : /exlock
-    14. (*) unlocks the channel               : /exunlock
-    15. (*) bans mentioned member             : /exban <user> (reason)
-    16. (*) kicks mentioned member            : /exkick <user> (reason)  
+    13. (**) locks the channel                 : /exlock
+    14. (**) unlocks the channel               : /exunlock
+    15. (**) bans mentioned member             : /exban <user> (reason)
+    16. (**) kicks mentioned member            : /exkick <user> (reason)  
         
