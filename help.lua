@@ -16,8 +16,8 @@ server setup:
     1. (^)sets up moderation system           : ,setme
     2. (^)configures a muted or jailed role   : ,configjr <@role> or ,configmr <@<role>
     3. (^)configures jailed channel           : ,configjc <channel> 
-    4. (^)creates jail if ,setme doesn't work : ,createjail
-    5. (^)creates mute if ,setme doesn't work : ,createmute 
+    4. (^)creates jail if ,setme breaks       : ,createjail
+    5. (^)creates mute if ,setme breaks       : ,createmute 
 
 moderation:
              info: the moderation commands. slam this shit lol
@@ -29,8 +29,8 @@ moderation:
     6. reaction mutes mentioned member        : ,rmute <user>
     7. unmutes mentioned member               : ,unmute <user>
     8. unjails mentioned member               : ,unjail <user>
-    9. un-image mutes member                  : ,iunmute <user> (experimental, don't rely on)
-    10. un-reaction mutes member              : ,runmute <user> (experimental, don't rely on)
+    9. un-image mutes member                  : ,iunmute <user> (experimental, do not rely on)
+    10. un-reaction mutes member              : ,runmute <user> (experimental, do not rely on)
     11. locks down the channel                : ,lockdown
     12. unlocks the channel                   : ,unlock
     13. (**) locks the channel                : ,exlock
@@ -41,4 +41,3 @@ moderation:
 moderation:
              info: fun things that have absolutely no background or reason behind them
     1.        
-        
