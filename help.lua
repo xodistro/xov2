@@ -1,4 +1,4 @@
-this is gradually being updat4ed. not all of the commands are here, only the importantish ones
+this is gradually being updated. not all of the commands are here, only the importantish ones
 command list for xo bot
 Prefix: , 
 () = not required
@@ -6,7 +6,7 @@ Prefix: ,
 ** = bot owner Only
 ^ = server admin Only
 -------
-join xo discord if yu find bugs, -or- yu wanna vibe, or tell me my bot is trash, or tell me yu love my bot, its up to yu.
+join xo discord if yu find bugs, -or yu wanna vibe, or tell me my bot is trash, or tell me yu love my bot, its up to yu.
 if yu find urgent bugs that could destroy servers, dm me at xo#0002  
 discord invite: https://youngforever.tk/discord
 bot invite: https://youngforever.tk
