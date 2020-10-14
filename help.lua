@@ -6,7 +6,7 @@ Prefix: ,
 ** = bot owner Only
 ^ = server admin Only
 -------
-join xo discord if yu find bugs, or yu wanna vibe, or tell me my bot is trash, or tell me yu love my bot, its up to yu.
+join xo discord if yu find bugs, -or- yu wanna vibe, or tell me my bot is trash, or tell me yu love my bot, its up to yu.
 if yu find urgent bugs that could destroy servers, dm me at xo#0002  
 discord invite: https://youngforever.tk/discord
 bot invite: https://youngforever.tk
@@ -16,6 +16,8 @@ server setup:
     1. (^)sets up moderation system           : ,setme
     2. (^)configures a muted or jailed role   : ,configjr <@role> or ,configmr <@<role>
     3. (^)configures jailed channel           : ,configjc <channel> 
+    4. (^)creates jail if ,setme doesn't work : ,createjail
+    5. (^)creates mute if ,setme doesn't work : ,createmute 
 
 moderation:
              info: the moderation commands. slam this shit lol
@@ -28,11 +30,15 @@ moderation:
     7. unmutes mentioned member               : ,unmute <user>
     8. unjails mentioned member               : ,unjail <user>
     9. un-image mutes member                  : ,iunmute <user> (experimental, don't rely on)
-    10. un-reaction mutes member              : ,runmute <user>
+    10. un-reaction mutes member              : ,runmute <user> (experimental, don't rely on)
     11. locks down the channel                : ,lockdown
     12. unlocks the channel                   : ,unlock
     13. (**) locks the channel                : ,exlock
     14. (**) unlocks the channel              : ,exunlock
     15. (**) bans mentioned member            : ,exban <user> (reason)
-    16. (**) kicks mentioned member           : ,exkick <user> (reason)  
+    16. (**) kicks mentioned member           : ,exkick <user> (reason)
+    
+moderation:
+             info: fun things that have absolutely no background or reason behind them
+    1.        
         
