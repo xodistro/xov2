@@ -13,4 +13,8 @@ when/if ,setme breaks (roles not logging or channels not logging), use ,configmr
 ----Updates on 10/15/20----
 ,unlock now has an alias. unlock or unlockdown can be used.
 ,lockdown now has an alias. lock or lockdowm can be used.
-----End of Update Log 10/15/20----      
+----End of Update Log 10/15/20----  
+                  
+----Update Log 10/19/20----  
+status as of the writing of this is set to offline. the bot is not down. to check if the bot is down, use ,check.
+----End of Update Log 10/19/20----                          
