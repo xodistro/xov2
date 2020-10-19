@@ -1,3 +1,5 @@
+for direct updates, join the discord server
+https://youngforever.tk/discord
 ----Updates on 10/14/20----
 problem with ,setme not logging mute role id fixed
 mute command finally fixed. no more reason breaks
