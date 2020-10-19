@@ -9,6 +9,7 @@ blacklist command reason exploit patched
 unban still broken, fixing it.
 when/if ,setme breaks (roles not logging or channels not logging), use ,configmr or ,configjr for roles and ,configlc for jail channel.
 ----End of Update Log 10/14/20----
+      
 ----Updates on 10/15/20----
 ,unlock now has an alias. unlock or unlockdown can be used.
 ,lockdown now has an alias. lock or lockdowm can be used.
