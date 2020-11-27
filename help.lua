@@ -27,8 +27,8 @@ moderation:
     2. kicks mentioned member                 : ,kick <user> (reason)
     3. mutes mentioned member                 : ,mute <user> 
     4. jails mentioned member                 : ,jail <user> (reason)
-    5. image mutes mentioned member           : ,imute <user>
-    6. reaction mutes mentioned member        : ,rmute <user>
+    5. image mutes mentioned member           : ,imute <user> --experimental, do not rely on--
+    6. reaction mutes mentioned member        : ,rmute <user> --experimental, do not rely on--
     7. unmutes mentioned member               : ,unmute <user>
     8. unjails mentioned member               : ,unjail <user>
     9. un-image mutes member                  : ,iunmute <user> --experimental, do not rely on--
